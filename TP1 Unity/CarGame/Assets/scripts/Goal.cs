@@ -9,7 +9,7 @@ public class Goal : MonoBehaviour
         if(colInfo.CompareTag("Player"))
         {
             Debug.Log("PARABENS, GANHOU!");
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 }
