@@ -33,9 +33,11 @@ function preload ()
 }
 var platforms;
 var player;
+var cursors;
 
 function create ()
 {
+    cursors = this.input.keyboard.createCursorKeys();
     this.add.image(400, 300, 'sky');
     platforms = this.physics.add.staticGroup();
     platforms.create(400, 568, 'ground').setScale(2).refreshBody();
@@ -63,11 +65,36 @@ function create ()
         frameRate: 10,
         repeat: -1
     });
+    player.body.setGravityY(300);
+    this.physics.add.collider(player, platforms);
+
 
 
 
 }
 
+
 function update ()
 {
+    if (cursors.left.isDown)
+    {
+        player.setVelocityX(-160);
+        player.anims.play('left', true);
+    }
+    else if (cursors.right.isDown)
+    {
+        player.setVelocityX(160);
+        player.anims.play('right', true);
+    }
+    else
+    {
+        player.setVelocityX(0);
+        player.anims.play('turn');
+    }
+    if (cursors.up.isDown && player.body.touching.down)
+    {
+        player.setVelocityY(-500);
+    }
+
+
 }
