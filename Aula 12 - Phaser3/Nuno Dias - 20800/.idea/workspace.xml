@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bd1477c-b118-4d32-a1df-ee75d7c37ab1" name="Default Changelist" comment="" />
+    <list default="true" id="81705e05-c9c0-43e8-9bdc-ff648e8321b7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1dMWBpyHFVVOqlPxL094k6cl4xB" />
+  <component name="ProjectId" id="1djCfYcQhWguMaGaZY7T2V209Z8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,20 +21,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Aula 12 - Phaser3/Nuno Dias - 20800" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Aula 15 - Phaser3" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0bd1477c-b118-4d32-a1df-ee75d7c37ab1" name="Default Changelist" comment="" />
-      <created>1592382213951</created>
+      <changelist id="81705e05-c9c0-43e8-9bdc-ff648e8321b7" name="Default Changelist" comment="" />
+      <created>1592929219079</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1592382213951</updated>
-      <workItem from="1592382217814" duration="205000" />
-      <workItem from="1592929089370" duration="138000" />
+      <updated>1592929219079</updated>
+      <workItem from="1592929224556" duration="497000" />
     </task>
     <servers />
   </component>
@@ -42,15 +41,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="692" y="287" key="FileChooserDialogImpl" timestamp="1592929216634">
+    <state x="692" y="287" key="FileChooserDialogImpl" timestamp="1592929421881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="692" y="287" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592235440035" />
-    <state x="692" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592929216634" />
-    <state x="608" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1592929191507">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="608" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592235381655" />
-    <state x="608" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592929191507" />
+    <state x="692" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592929421881" />
   </component>
 </project>
